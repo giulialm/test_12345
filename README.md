@@ -7,4 +7,4 @@ add a third line
 fourth  
 fifth  
 add a sixth line in the local computer  BOO
-Add a seventh line in the local machine
+This is the seventh line in the web
