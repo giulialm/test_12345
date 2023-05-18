@@ -6,4 +6,5 @@ add a second line and modify the second line
 add a third line  
 fourth  
 fifth  
-add a sixth line in the local computer  
+add a sixth line in the local computer  XX
+This is the seventh line in the web
